@@ -6,6 +6,7 @@ public class Car {
     private int yearCreated;
     private String color;
     private String ownerName;
+    //private String power;
 
     public Car(String model, int yearCreated, String color, String ownerName) {
         this.model = model;
